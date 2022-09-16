@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:id="@+id/nameTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Name: Taifa"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:id="@+id/emailTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Email: Taifa@"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:id="@+id/presentaddTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="Present Address:Dhanmondi"/>
+
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:id="@+id/permanentaddTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="Permanent Address:Dhaka"/>
+
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:id="@+id/phonehTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="Phone Home:0987654321"/>
+
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:id="@+id/phoneoTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="Phone Office:0987654321"/>
+
+</LinearLayout>

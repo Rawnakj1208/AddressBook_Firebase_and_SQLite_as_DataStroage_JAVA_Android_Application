@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/activity_addressbook_detail.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/activity_showdetails.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/address_details.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/address_row.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/addressdetails.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AddressBook/app/src/main/res/layout/addressrow.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/AddressBook/app/src/main/res/layout/activity_details.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Downloads/AddressBook/app/src/main/res/layout/activity_main.xml" value="0.23076923076923078" />
+        <entry key="..\:/Users/Lenovo/Downloads/AddressBook/app/src/main/res/layout/sample_layout.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

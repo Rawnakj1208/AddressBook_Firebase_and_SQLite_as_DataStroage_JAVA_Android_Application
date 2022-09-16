@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371381736096",
+    "project_id": "address-book-b43b9",
+    "storage_bucket": "address-book-b43b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371381736096:android:1da9b3358442e15eda2fc5",
+        "android_client_info": {
+          "package_name": "edu.bd.addressbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371381736096-kdp3ujic5dokt0ifdkh0rjv28ao8kaoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGTHgr_s0m_DACtf_KahKF7vPNiX2-u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371381736096-kdp3ujic5dokt0ifdkh0rjv28ao8kaoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
